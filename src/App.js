@@ -8,6 +8,10 @@ function App() {
       <header>
         <a href="/">React Comercio</a>
       </header>
+      <main>
+        Product List
+      </main>
+      <footer>Copyrigh</footer>
     </div>
   );
 }
